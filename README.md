@@ -1,3 +1,3 @@
 # New-Reposit
 
-#This is not the place for the things you are looking for. Just leave already!
+This is not the place for the things you are looking for. Just leave already!
