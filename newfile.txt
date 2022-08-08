@@ -1,2 +1,0 @@
-My second file uploading 
-and first file uploading using terminal ssh connection
